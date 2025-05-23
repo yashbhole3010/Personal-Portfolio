@@ -15,6 +15,7 @@ const App = () => {
       <Skills />
       <Projects />
       <Contact />
+      <h3>yash bhole</h3>
     </div>
   );
 };
