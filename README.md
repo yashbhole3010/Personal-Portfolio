@@ -31,4 +31,4 @@ Edit
 npm install
 npm run dev
 🔗 Live Demo
-(https://yashbhole3010.github.io/Personal-Portfolio-credora_task2/)
+(https://yashbhole3010.github.io/Personal-Portfolio/)
